@@ -13,7 +13,9 @@
     "dependencies": {
         "apollo-server": "^3.13.0",
         "apollo-server-core": "^3.13.0",
+        "crypto": "^1.0.1",
         "graphql": "^16.8.1",
-        "graphql-yoga": "^5.1.1"
+        "graphql-yoga": "^5.1.1",
+        "nanoid": "^5.0.4"
     }
 }

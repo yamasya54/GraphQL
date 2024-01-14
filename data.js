@@ -1,6 +1,6 @@
 const users = [
-    { id: "1", fullName: "Buket Soyha" },
-    { id: "2", fullName: "Asli Demir" },
+    { id: "1", fullName: "Buket Soyha",age:29 },
+    { id: "2", fullName: "Asli Demir",age:30 },
   ];
   
   const posts = [
